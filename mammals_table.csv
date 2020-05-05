@@ -1,0 +1,16 @@
+scientific_name,common_name,abbreviated,protein_id,chromosome,mapped_position,taxon
+Homo sapiens,human,H. sapiens,NP_001358344.1,X,Xp22.2,Primate
+Mus musculus,house mouse,M. musculus,NP_081562.2,X,X 76.12 cM,Rodent
+Rattus norvegicus,Norway rat,R. norvegicus,NP_001012006.1,X,Xq14,Rodent
+Sus scrofa,pig,S. scrofa,NP_001116542.1,X,,Even-toed ungulate
+Canis lupus familiaris,dog,C. lupus,NP_001158732.1,X,,Carnivore
+Bos taurus,cattle,B. taurus,NP_001019673.2,X,,Even-toed ungulate
+Manis javanica,Malayan pangolin,M. javanica,XP_017505746.1,Unknown,,Pangolin
+Rhinolophus ferrumequinum,greater horseshoe bat,R. ferrumequinum,XP_032963186.1,1,,Bat
+Myotis brandtii,Brandt's bat,M. brandtii,XP_014399780.1,Unknown,,Bat
+Pteropus vampyrus,large flying fox,P. vampyrus,XP_011361275.1,Unknown,,Bat
+Pteropus alecto,black flying fox,P. alecto,XP_006911709.1,Unknown,,Bat
+Rousettus aegyptiacus,Egyptian rousette,R. aegyptiacus,XP_015974412.1,Unknown,,Bat
+Phyllostomus discolor,pale spear-nosed bat,P. discolor,XP_028378317.1,9,,Bat
+Hipposideros armiger,great roundleaf bat,H. armiger,XP_019522936.1,Unknown,,Bat
+Pan troglodytes,chimpanzee,P. troglodytes,XP_016798468.1,X,,Primate
